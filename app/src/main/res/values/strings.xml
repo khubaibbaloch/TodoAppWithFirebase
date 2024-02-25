@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="make" translatable="false">Lorem ipsum dolor sit amet consectetur.\n Eget sit nec et euismod. \nConsequat urna quam felis interdum quisque.\n Malesuada adipiscing tristique ut eget sed.</string>
+    <string name="todo_app">TODO APP</string>
+    <string name="_30" translatable="false">30</string>
+    <string name="completed_task">Completed Task</string>
+    <string name="no_completed_tasks">No completed tasks</string>
+    <string name="profile">Profile</string>
+    <string name="user_name">user name</string>
+    <string name="logout">Logout</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forget_password">Forget password ?</string>
+    <string name="login">Login</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="gets_things_with_tods">Gets things with TODs</string>
+    <string name="get_started" translatable="false">Get Started</string>
+    <string name="reset_your_password" translatable="false">Reset Your Password</string>
+    <string name="reset_password" translatable="false">Reset Password</string>
+    <string name="sign_in" translatable="false">Sign In</string>
+    <string name="welcome_to_onboard" translatable="false">Welcome to Onboard!</string>
+    <string name="let_s_help_to_meet_up_your_n_tasks" translatable="false">Let’s help to meet up your\n tasks.</string>
+    <string name="enter_your_full_name" translatable="false">Enter your full name</string>
+    <string name="confirm_password" translatable="false">Confirm password</string>
+    <string name="register" translatable="false">Register</string>
+</resources>

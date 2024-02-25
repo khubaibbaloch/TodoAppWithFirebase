@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_color">#9395D3</color>
+    <color name="background">#F0F4F3</color>
+    <color name="Home_background">#D6D7EF</color>
+    <color name="edit_task">#83DD72</color>
+    <color name="delete_task">#F14848</color>
+
+    <color name="colorOption1">#FF7077A1</color>
+    <color name="colorOption2">#FF8E7AB5</color>
+    <color name="colorOption3">#FF9B4444</color>
+    <color name="colorOption4">#FFB2A59B</color>
+
+
+</resources>

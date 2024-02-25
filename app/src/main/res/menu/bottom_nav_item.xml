@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/all_Task"
+        android:title="All"
+        android:icon="@drawable/all_task_icon"/>
+    <item android:id="@+id/complet_Task"
+        android:title="Completed"
+        android:icon="@drawable/complet_icon"/>
+    <item android:id="@+id/profile"
+        android:title="Profile"
+       android:icon="@drawable/profile_icon"/>
+</menu>
